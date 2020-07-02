@@ -2,7 +2,7 @@
 # Python
 # By Nirmit-Hacker.
 
-# Make a Variable(num1, num2, sum)
+# Make a Variable(num1, num2)
 num1=float(input("Enter the value of num1 : "))
 num2=float(input("Enter the value of num2 : "))
 
