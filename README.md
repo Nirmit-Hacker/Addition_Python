@@ -9,4 +9,4 @@ num2=float(input("Enter the value of num2 : "))
 # Main program(equation)
 sum=num1+num2
 
-print(sum)
+print("The Sum of ", num1," and ", num2," is ", sum)
